@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Exploring React Hooks",
+      "datetime": "2024-03-24T08:00:00",
+      "body": "React Hooks revolutionized the way we manage state and side effects in functional components, offering a more concise and readable syntax."
+    },
+    {
+      "id": "2",
+      "title": "Mastering CSS Grid Layouts",
+      "datetime": "2024-03-23T10:30:00",
+      "body": "CSS Grid Layouts provide powerful tools for creating complex web layouts with ease, enabling precise control over both rows and columns."
+    },
+    {
+      "id": "3",
+      "title": "The Rise of Progressive Web Apps",
+      "datetime": "2024-03-22T14:15:00",
+      "body": "Progressive Web Apps (PWAs) are gaining popularity due to their ability to offer a native app-like experience while being built with web technologies."
+    },
+    {
+      "id": "4",
+      "title": "JavaScript ES6 Features You Should Know",
+      "datetime": "2024-03-21T11:45:00",
+      "body": "ES6 introduced numerous features like arrow functions, template literals, destructuring, and classes, enhancing the power and readability of JavaScript code."
+    },
+    {
+      "id": "6",
+      "title": "congrats!",
+      "datetime": "March 29, 2024 8:59:24 PM",
+      "body": "you completed react course"
+    }
+  ]
+}
